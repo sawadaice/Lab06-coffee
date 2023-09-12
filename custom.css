@@ -1,0 +1,56 @@
+/* Update background and text colors */
+body {
+    background-color: #F9F5F2; /* Light beige background */
+    color: #2E2E2E; /* Dark gray text color */
+}
+
+/* Change button style */
+.btn-custom {
+    background-color: #E27D60; /* Espresso brown button background */
+    color: #FFFFFF; /* White text color */
+    border: none;
+}
+
+.btn-custom:hover {
+    background-color: #C2573E; /* Darker brown on hover */
+}
+
+/* Update fonts */
+h2, h3, h4, h5 {
+    font-family: "Pacifico", cursive; /* Use a cursive font for headings */
+}
+
+/* Change modal header background */
+.modal-header {
+    background-color: #E27D60; /* Espresso brown header background */
+    color: #FFFFFF; /* White text color */
+}
+
+/* Update modal body and form */
+.modal-body {
+    background-color: #FFFFFF; /* White modal body background */
+}
+
+.form-control {
+    background-color: #F9F5F2; /* Light beige input background */
+    color: #2E2E2E; /* Dark gray text color */
+}
+
+/* Update list item background */
+ul li {
+    background-color: #FFFFFF; /* White background for list items */
+    border: 1px solid #D1D1D1; /* Light gray border around list items */
+    margin: 5px 0;
+    padding: 10px;
+}
+
+/* Change delete button style */
+.btn-danger {
+    background-color: #E27D60; /* Espresso brown button background */
+    color: #FFFFFF; /* White text color */
+    border: none;
+}
+
+.btn-danger:hover {
+    background-color: #C2573E; /* Darker brown on hover */
+}
