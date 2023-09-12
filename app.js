@@ -2,12 +2,12 @@ const app = Vue.createApp({
     data() {
         return {
             coffeeShops: [
-                { id: 1, name: 'Ristr8to',image: 'https://github.com/pondlnwtrue007/Lab6-cafeBookings/blob/master/img/image1.jpg?raw=true' },
-                { id: 2, name: 'ROAST8RY LAB',image: 'https://github.com/pondlnwtrue007/Lab6-cafeBookings/blob/master/img/image2.jpg?raw=true'},
-                { id: 3, name: 'Roxpresso Coffee Craft',image: 'https://github.com/pondlnwtrue007/Lab6-cafeBookings/blob/master/img/image3.jpg?raw=true'},
-                { id: 4, name: 'The Baristro Asian Style',image: 'https://github.com/pondlnwtrue007/Lab6-cafeBookings/blob/master/img/image4.jpg?raw=true'},
-                { id: 5, name: 'FIEOW Coffee ROOM Roaster Shop',image: 'https://github.com/pondlnwtrue007/Lab6-cafeBookings/blob/master/img/image5.jpg?raw=true'},
-                { id: 6, name: 'di BOSCO COFFEE SPECIALIST',image: 'https://github.com/pondlnwtrue007/Lab6-cafeBookings/blob/master/img/image6.jpg?raw=true'},
+                { id: 1, name: 'Ristr8to',image: 'https://github.com/sawadaice/Lab06-coffee/blob/main/img/image1.jpg?raw=true' },
+                { id: 2, name: 'ROAST8RY LAB',image: 'https://github.com/sawadaice/Lab06-coffee/blob/main/img/image2.jpg?raw=true'},
+                { id: 3, name: 'Roxpresso Coffee Craft',image: 'https://github.com/sawadaice/Lab06-coffee/blob/main/img/image3.jpg?raw=true'},
+                { id: 4, name: 'The Baristro Asian Style',image: 'https://github.com/sawadaice/Lab06-coffee/blob/main/img/image4.jpg?raw=true'},
+                { id: 5, name: 'FIEOW Coffee ROOM Roaster Shop',image: 'https://github.com/sawadaice/Lab06-coffee/blob/main/img/image5.jpg?raw=true'},
+                { id: 6, name: 'di BOSCO COFFEE SPECIALIST',image: 'https://github.com/sawadaice/Lab06-coffee/blob/main/img/image6.jpg?raw=true'},
                 // ... ร้านอื่นๆ
             ],
             currentShop: {},
